@@ -14,6 +14,9 @@ fun main() {
            println(codes[i])
        }
        println ("my first commit")
+
+       println ("my first commit")
+       println ("my first commit")
    }
 
 
